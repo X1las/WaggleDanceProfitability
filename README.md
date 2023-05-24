@@ -33,8 +33,6 @@ Made using python version 3.10.11,
 
 Along with the latest versions of 
 
-matplotlib
-pyplot
-scipy
+matplotlib, pyplot, and scipy
 
 as of 24-05-2023
